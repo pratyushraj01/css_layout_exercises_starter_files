@@ -1,0 +1,47 @@
+.parentbox{
+	margin-top:90px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+	width: 800px;
+	
+}
+
+.centred{
+	text-align: center;
+}
+
+.half{
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.tri{
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.green{
+	background-color: green;
+
+}
+
+.blue{
+	background-color: blue;
+}
+
+.grey{
+	background-color: grey;
+}
+
+.black{
+	background-color: black;
+}
+
+.orange{
+	background-color: orange;
+}
